@@ -98,3 +98,12 @@ insert into emplacement (prixEmp) values (224);
 insert into emplacement (prixEmp) values (263);
 insert into emplacement (prixEmp) values (260);
 insert into emplacement (prixEmp) values (201);
+
+
+insert into emplacement (prixEmp) values (170);
+insert into emplacement (prixEmp) values (180);
+insert into emplacement (prixEmp) values (220);
+insert into emplacement (prixEmp) values (250);
+insert into emplacement (prixEmp) values (180);
+insert into emplacement (prixEmp) values (230);
+insert into emplacement (prixEmp) values (250);
